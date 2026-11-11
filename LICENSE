@@ -1,0 +1,20 @@
+Yosr Dross License
+Copyright © 2026 Wael Zohny / Yosr AI
+
+This license covers Yosr Dross: the `dross` command-line tool (including its interactive terminal view) in the compiled form published at https://github.com/getdross/dross and installed through the `getdross/homebrew-tap` Homebrew formula. It applies to every published version from 0.1.0 onward, including versions published before this file was added, unless a later version ships a different license file.
+
+You may install and use Yosr Dross for free, for personal and commercial work.
+
+You may not copy, modify, redistribute, sublicense, sell, or reverse engineer Yosr Dross (the `dross` binary and the private source it is built from), except as the law allows. Installing it through the official Homebrew tap or the official release archives, and the copies your computer makes to install and run it, are allowed.
+
+Your files stay yours. Yosr Dross claims no rights in your files, projects or caches.
+
+Data. Yosr Dross does not collect telemetry or usage data, and it does not phone home to Yosr AI or check for updates. When you ask it to clean a named cache, it runs that tool's own command (for example `npm cache clean --force` or `dotnet nuget locals global-packages --clear`). That tool is not part of Yosr Dross and behaves under its own terms.
+
+Third-party components. The `dross` binary includes open-source libraries under their own licenses (mostly MIT and Apache-2.0). Their notices are published in `THIRD-PARTY-LICENSES.md` at https://dross.yosr.ai/trust/ and in the release archive of each version that includes it. Nothing in this license limits your rights under those licenses.
+
+Deleting files. Yosr Dross is a tool for removing files. By default it moves the folders you confirm to the macOS Trash, and it deletes permanently only when you choose that explicitly. You decide what is removed. Before you confirm a clean, check what it lists, and keep backups of anything you need.
+
+Yosr Dross is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with Yosr Dross or the use or other dealings in Yosr Dross. This includes, without limitation, the loss, deletion, or corruption of files, folders, caches, projects, or data, and any time or cost to rebuild, restore, or download them again, whether the files were moved to the Trash, deleted permanently, or removed by a cache tool that Yosr Dross ran at your request. Some places do not allow certain exclusions of warranty or liability. In those places, these exclusions apply as far as the law allows.
+
+Contact: wzohny@gmail.com
