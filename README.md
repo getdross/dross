@@ -1,6 +1,6 @@
-# dross
+# Yosr Dross
 
-Public release archives for the dross developer disk cleaner.
+Public release archives for Yosr Dross (`dross`), the developer disk cleaner for macOS.
 
 This repository holds compiled macOS archives. It does not contain the source.
 
@@ -15,9 +15,15 @@ brew install dross
 
 `brew trust` is required once on Homebrew 7. No GitHub login is required.
 
+Website: <https://dross.yosr.ai>
+
 | Mac | Archive |
 | --- | --- |
 | Apple Silicon | `dross-cli-aarch64-apple-darwin.tar.xz` |
 | Intel | `dross-cli-x86_64-apple-darwin.tar.xz` |
 
 Both files are on the [v0.3.2 release](https://github.com/getdross/dross/releases/tag/v0.3.2).
+
+License: [Yosr Dross License](https://dross.yosr.ai/trust/). Free to use; the source is private.
+
+Bug reports: email (see the site).
